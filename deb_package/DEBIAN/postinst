@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /usr/share/applications/
+python3 /usr/bin/wx-translate.py

@@ -1,0 +1,11 @@
+Package: winunix-language-pt-br
+Version: 0.0.1
+Installed-Size: 5
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Section: utils
+Architecture: all
+Priority: optional
+Depends: python3, language-pack-pt-base, language-pack-gnome-pt-base, language-pack-kde-pt, hyphen-pt-pt, hyphen-pt-br, hunspell-pt-pt, hunspell-pt-br, myspell-pt-pt, myspell-pt-br, myspell-pt, mythes-pt-pt, wportuguese, wbrazilian, locales
+Homepage: https://winunix.github.io
+Description: Translation Lubuntu 20.04 LTS to pt_BR.
+ This tool install all dependencies of language pt_BR and modify the launchers adding properties to translate.
