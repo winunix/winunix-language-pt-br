@@ -48,8 +48,21 @@ launchers = [
 	["info","TeXInfo","Visualizador para TexInfo","Visualizador para documentos TexInfo"],
 	["qlipper","Área de transferência","Área de transferência Qlipper","Área de transferência Qlipper"],	
 	["vim","Editor Vim","Editor de texto por terminal","Edite arquivos de texto"],
-	["software-properties-gtk","Fontes de softwares (GTK)","Fontes de softwares (GTK)","Configura as fontes para instalação de softwares e atualização"],
-	["software-properties-drivers","Drivers Adicionais (GTK)","Drivers Adicionais (GTK)","Configurações de drivers proprietários"]
+	["software-properties-gtk","Fontes de softwares GNOME","Fontes de softwares e atualização","Configura as fontes para instalação de softwares e atualização"],
+	["software-properties-drivers","Drivers Adicionais GNOME","Drivers proprietários","Configurações de drivers proprietários"],
+	["org.gnome.FileRoller","Compressor de arquivos GNOME","Gerenciador de arquivos compactados","Um gerenciador de arquivos compactados para o GNOME"],
+	["gucharmap","Mapa de Caracteres","Mapa de caracteres do GNOME","Insira caracteres especiais em documentos"],
+	["org.gnome.DiskUtility","Utilitário de Discos","Discos","Exibe, modifica e configura discos e mídias"],
+	["org.gnome.FontViewer","Visualizador de fontes","Visualizador de fontes do GNOME","Visualizador de fontes do GNOME"],
+	["galculator","Calculadora GNOME","Galculator","Uma calculadora científica baseada no GTK+"],
+	["org.kde.kcalc","Calculadora KDE","KCalc","Calculadora Cientifica"],
+	["xpad","Notas adesivas","Xpad","Xpad"],
+	["org.gnome.Evince","Visualizador de documentos","Evince","Visualizador de documentos"],
+	["pdfarranger","Manipulador de PDF","PDF Arranger","Rearranja e modifica arquivos PDF"],
+	["org.gnome.eog","Visualizador de imagens GNOME","Eye of GNOME","Visualizador de imagens do GNOME"],
+	["audacious","Reprodutor de música","Audacious","Player baseado no XMMS"],
+	["blueman-manager","Gerenciador de bluetooth","Blueman Manager","Gerenciador de bluetooth do GTK+"],
+	["system-config-samba","Compartilhamentos do samba","compartilhamentos SMB/CIFS","Criar, modificar e apagar compartilhamentos do samba"]
 ]
 
 for launcher in launchers:
