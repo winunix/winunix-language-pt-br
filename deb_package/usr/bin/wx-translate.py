@@ -62,7 +62,12 @@ launchers = [
 	["org.gnome.eog","Visualizador de imagens GNOME","Eye of GNOME","Visualizador de imagens do GNOME"],
 	["audacious","Reprodutor de música","Audacious","Player baseado no XMMS"],
 	["blueman-manager","Gerenciador de bluetooth","Blueman Manager","Gerenciador de bluetooth do GTK+"],
-	["system-config-samba","Compartilhamentos do samba","compartilhamentos SMB/CIFS","Criar, modificar e apagar compartilhamentos do samba"]
+	["system-config-samba","Compartilhamentos do Samba","compartilhamentos SMB/CIFS","Criar, modificar e apagar compartilhamentos do samba"],
+	["gimp","Editor de imagens GIMP", "Programa manipulador de imagens do GNU","GNU Image Manipulation Program"],
+	["org.gnome.Cheese", "Cabine de Webcam Cheese","Cheese Webcam Booth","Salve fotos e vídeos com a Webcam"],
+	["imagination","Criador de Slideshow","Imagination Slideshow Maker","Gerador de apresentação de slides com fotos"],
+	["org.kde.kdenlive","Editor de vídeo Kdenlive","Editor de vídeo não-linear do KDE","Kdenlive"],
+	["unetbootin","UNetbootin","Criador de discos de inicialização","Ferramenta para criar drives Live USB"]
 ]
 
 for launcher in launchers:
